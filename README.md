@@ -14,7 +14,7 @@ It uses historical IMDb data, applies preprocessing and feature engineering, and
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Python 3.x**
 - **Libraries**:
   - `pandas`, `numpy` → data analysis
